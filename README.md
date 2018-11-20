@@ -1,2 +1,2 @@
-# Ract-redux-sample
+# React-redux-sample
 React ,Redux
